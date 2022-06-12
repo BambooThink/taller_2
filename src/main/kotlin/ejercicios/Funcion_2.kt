@@ -13,5 +13,6 @@ fun main() {
 }
 
 fun calcularBuses(gordos: Int, flacos: Int, sillas: Int): Int {
+    require(sillas > 0)
     return ceil(((gordos * 2.0) + flacos) / sillas).toInt()
 }
