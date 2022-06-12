@@ -1,3 +1,3 @@
-# :dart: Taller 1
+# :dart: Taller 2
 
 Resolución de ejercicios en Kotlin.
